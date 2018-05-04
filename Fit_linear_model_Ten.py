@@ -1,3 +1,5 @@
+####Fitting a linear model and plot the data and the model
+
 import tensorflow as tf
 from subprocess import call
 import numpy as np
